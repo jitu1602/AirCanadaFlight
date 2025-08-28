@@ -1,0 +1,16 @@
+Traceability Matrix: User Story to Test Scenarios
+
+User Story: US001 - Launch https://www.aircanada.com/ portal and check Flight status tab.
+
+| User Story ID | Test Scenario ID | Description |
+|--------------|-----------------|-------------|
+| US001        | TS001           | Verify that the Air Canada portal launches successfully. |
+| US001        | TS002           | Verify that the "Flight Status" tab is present and accessible on the portal. |
+| US001        | TS003           | Verify that the user can enter a valid flight number (e.g., AC 792) in the flight status search field. |
+| US001        | TS004           | Verify that clicking the "Search" button after entering a valid flight number displays the correct flight status. |
+| US001        | TS005           | Verify that the system allows searching for flight status for up to 3 days in the past. |
+| US001        | TS006           | Verify that the system allows searching for flight status for a few days in the future. |
+| US001        | TS007           | Verify that the flight status for the route YYZ-YHZ is displayed correctly. |
+| US001        | TS008           | Verify that an appropriate error message is shown when an invalid or non-existent flight number is entered. |
+| US001        | TS009           | Verify that the date selection for past and future flights is restricted to the allowed range. |
+| US001        | TS010           | Verify that the search results include all relevant flight details (e.g., departure, arrival, status). |
