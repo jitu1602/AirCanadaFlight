@@ -1,0 +1,11 @@
+User Story 001
+
+US001 : Launch https://www.aircanada.com/ portal and check Flight status tab.
+	Enter the flight number details and click search.
+	Check it for a period of 3 days in past and for a few days in future.
+	You can check the following Flights and routes :
+
+	Flights:
+	AC 792
+	Routes :
+	YYZ-YHZ
