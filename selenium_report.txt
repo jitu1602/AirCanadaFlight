@@ -1,0 +1,3 @@
+Selenium test execution output is saved in selenium_report.txt. Please open this file to view the detailed results.
+
+If you want this report uploaded to GitHub, let me know!
